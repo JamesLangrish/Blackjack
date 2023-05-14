@@ -24,13 +24,13 @@ body {
 }
 
 h1 {
-  font-size: 55px;
+  font-size: 60px;
   color: goldenrod;
   font-weight: 900;
 }
 
 p {
-  font-size: 23px;
+  font-size: 25px;
   font-weight: bolder;
 }
 
@@ -57,5 +57,16 @@ p {
   .blackjack {
     width: auto;
     background-position: center;
+  }
+  h1 {
+    font-size: 45px;
+  }
+  p {
+    font-size: 19px;
+  }
+
+  #start-game,
+  #new-card {
+    font-size: 19px;
   }
 }
