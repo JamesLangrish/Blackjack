@@ -30,7 +30,7 @@ function renderGame() {
     message = "You've got blackjack!";
     hasBlackjack = true;
   } else {
-    message = "Sorry, please try again.";
+    message = "You lose.";
     isAlive = false;
   }
 
